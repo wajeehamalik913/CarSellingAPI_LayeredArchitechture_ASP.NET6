@@ -1,0 +1,12 @@
+C:\Users\WajeehaMalik(TechUni\source\repos\CarSellingApi\CarSellingAPI.Common\bin\Debug\net6.0\CarSellingAPI.Common.deps.json
+C:\Users\WajeehaMalik(TechUni\source\repos\CarSellingApi\CarSellingAPI.Common\bin\Debug\net6.0\CarSellingAPI.Common.dll
+C:\Users\WajeehaMalik(TechUni\source\repos\CarSellingApi\CarSellingAPI.Common\bin\Debug\net6.0\CarSellingAPI.Common.pdb
+C:\Users\WajeehaMalik(TechUni\source\repos\CarSellingApi\CarSellingAPI.Common\obj\Debug\net6.0\CarSellingAPI.Common.csproj.AssemblyReference.cache
+C:\Users\WajeehaMalik(TechUni\source\repos\CarSellingApi\CarSellingAPI.Common\obj\Debug\net6.0\CarSellingAPI.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WajeehaMalik(TechUni\source\repos\CarSellingApi\CarSellingAPI.Common\obj\Debug\net6.0\CarSellingAPI.Common.AssemblyInfoInputs.cache
+C:\Users\WajeehaMalik(TechUni\source\repos\CarSellingApi\CarSellingAPI.Common\obj\Debug\net6.0\CarSellingAPI.Common.AssemblyInfo.cs
+C:\Users\WajeehaMalik(TechUni\source\repos\CarSellingApi\CarSellingAPI.Common\obj\Debug\net6.0\CarSellingAPI.Common.csproj.CoreCompileInputs.cache
+C:\Users\WajeehaMalik(TechUni\source\repos\CarSellingApi\CarSellingAPI.Common\obj\Debug\net6.0\CarSellingAPI.Common.dll
+C:\Users\WajeehaMalik(TechUni\source\repos\CarSellingApi\CarSellingAPI.Common\obj\Debug\net6.0\refint\CarSellingAPI.Common.dll
+C:\Users\WajeehaMalik(TechUni\source\repos\CarSellingApi\CarSellingAPI.Common\obj\Debug\net6.0\CarSellingAPI.Common.pdb
+C:\Users\WajeehaMalik(TechUni\source\repos\CarSellingApi\CarSellingAPI.Common\obj\Debug\net6.0\ref\CarSellingAPI.Common.dll

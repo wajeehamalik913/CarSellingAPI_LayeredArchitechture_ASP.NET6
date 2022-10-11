@@ -1,0 +1,14 @@
+C:\Users\WajeehaMalik(TechUni\source\repos\CarSellingApi\CarSellingAPI.DAL\bin\Debug\net6.0\CarSellingAPI.DAL.deps.json
+C:\Users\WajeehaMalik(TechUni\source\repos\CarSellingApi\CarSellingAPI.DAL\bin\Debug\net6.0\CarSellingAPI.DAL.runtimeconfig.json
+C:\Users\WajeehaMalik(TechUni\source\repos\CarSellingApi\CarSellingAPI.DAL\bin\Debug\net6.0\CarSellingAPI.DAL.dll
+C:\Users\WajeehaMalik(TechUni\source\repos\CarSellingApi\CarSellingAPI.DAL\bin\Debug\net6.0\CarSellingAPI.DAL.pdb
+C:\Users\WajeehaMalik(TechUni\source\repos\CarSellingApi\CarSellingAPI.DAL\obj\Debug\net6.0\CarSellingAPI.DAL.csproj.AssemblyReference.cache
+C:\Users\WajeehaMalik(TechUni\source\repos\CarSellingApi\CarSellingAPI.DAL\obj\Debug\net6.0\CarSellingAPI.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WajeehaMalik(TechUni\source\repos\CarSellingApi\CarSellingAPI.DAL\obj\Debug\net6.0\CarSellingAPI.DAL.AssemblyInfoInputs.cache
+C:\Users\WajeehaMalik(TechUni\source\repos\CarSellingApi\CarSellingAPI.DAL\obj\Debug\net6.0\CarSellingAPI.DAL.AssemblyInfo.cs
+C:\Users\WajeehaMalik(TechUni\source\repos\CarSellingApi\CarSellingAPI.DAL\obj\Debug\net6.0\CarSellingAPI.DAL.csproj.CoreCompileInputs.cache
+C:\Users\WajeehaMalik(TechUni\source\repos\CarSellingApi\CarSellingAPI.DAL\obj\Debug\net6.0\CarSellingAPI.DAL.dll
+C:\Users\WajeehaMalik(TechUni\source\repos\CarSellingApi\CarSellingAPI.DAL\obj\Debug\net6.0\refint\CarSellingAPI.DAL.dll
+C:\Users\WajeehaMalik(TechUni\source\repos\CarSellingApi\CarSellingAPI.DAL\obj\Debug\net6.0\CarSellingAPI.DAL.pdb
+C:\Users\WajeehaMalik(TechUni\source\repos\CarSellingApi\CarSellingAPI.DAL\obj\Debug\net6.0\CarSellingAPI.DAL.genruntimeconfig.cache
+C:\Users\WajeehaMalik(TechUni\source\repos\CarSellingApi\CarSellingAPI.DAL\obj\Debug\net6.0\ref\CarSellingAPI.DAL.dll

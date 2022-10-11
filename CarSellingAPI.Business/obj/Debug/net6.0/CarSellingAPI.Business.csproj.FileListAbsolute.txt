@@ -1,0 +1,17 @@
+C:\Users\WajeehaMalik(TechUni\source\repos\CarSellingApi\CarSellingAPI.Business\bin\Debug\net6.0\CarSellingAPI.Business.deps.json
+C:\Users\WajeehaMalik(TechUni\source\repos\CarSellingApi\CarSellingAPI.Business\bin\Debug\net6.0\CarSellingAPI.Business.runtimeconfig.json
+C:\Users\WajeehaMalik(TechUni\source\repos\CarSellingApi\CarSellingAPI.Business\bin\Debug\net6.0\CarSellingAPI.Business.dll
+C:\Users\WajeehaMalik(TechUni\source\repos\CarSellingApi\CarSellingAPI.Business\bin\Debug\net6.0\CarSellingAPI.Business.pdb
+C:\Users\WajeehaMalik(TechUni\source\repos\CarSellingApi\CarSellingAPI.Business\bin\Debug\net6.0\CarSellingAPI.DAL.dll
+C:\Users\WajeehaMalik(TechUni\source\repos\CarSellingApi\CarSellingAPI.Business\bin\Debug\net6.0\CarSellingAPI.DAL.pdb
+C:\Users\WajeehaMalik(TechUni\source\repos\CarSellingApi\CarSellingAPI.Business\obj\Debug\net6.0\CarSellingAPI.Business.csproj.AssemblyReference.cache
+C:\Users\WajeehaMalik(TechUni\source\repos\CarSellingApi\CarSellingAPI.Business\obj\Debug\net6.0\CarSellingAPI.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WajeehaMalik(TechUni\source\repos\CarSellingApi\CarSellingAPI.Business\obj\Debug\net6.0\CarSellingAPI.Business.AssemblyInfoInputs.cache
+C:\Users\WajeehaMalik(TechUni\source\repos\CarSellingApi\CarSellingAPI.Business\obj\Debug\net6.0\CarSellingAPI.Business.AssemblyInfo.cs
+C:\Users\WajeehaMalik(TechUni\source\repos\CarSellingApi\CarSellingAPI.Business\obj\Debug\net6.0\CarSellingAPI.Business.csproj.CoreCompileInputs.cache
+C:\Users\WajeehaMalik(TechUni\source\repos\CarSellingApi\CarSellingAPI.Business\obj\Debug\net6.0\CarSellingAPI.Business.csproj.CopyComplete
+C:\Users\WajeehaMalik(TechUni\source\repos\CarSellingApi\CarSellingAPI.Business\obj\Debug\net6.0\CarSellingAPI.Business.dll
+C:\Users\WajeehaMalik(TechUni\source\repos\CarSellingApi\CarSellingAPI.Business\obj\Debug\net6.0\refint\CarSellingAPI.Business.dll
+C:\Users\WajeehaMalik(TechUni\source\repos\CarSellingApi\CarSellingAPI.Business\obj\Debug\net6.0\CarSellingAPI.Business.pdb
+C:\Users\WajeehaMalik(TechUni\source\repos\CarSellingApi\CarSellingAPI.Business\obj\Debug\net6.0\CarSellingAPI.Business.genruntimeconfig.cache
+C:\Users\WajeehaMalik(TechUni\source\repos\CarSellingApi\CarSellingAPI.Business\obj\Debug\net6.0\ref\CarSellingAPI.Business.dll

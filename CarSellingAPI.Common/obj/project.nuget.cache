@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "acG6TRDFhIuTQOQ+Gv+tSWr9vajWPIbKHkgMH4Wa775dILpSC/HUSjZTrryU1U4mmM7A3QU2bzQS3zNLYOrwwA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\WajeehaMalik(TechUni\\source\\repos\\CarSellingApi\\CarSellingAPI.Common\\CarSellingAPI.Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\WajeehaMalik(TechUni\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.2.0\\microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",
+    "C:\\Users\\WajeehaMalik(TechUni\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.2.0\\microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512",
+    "C:\\Users\\WajeehaMalik(TechUni\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\WajeehaMalik(TechUni\\.nuget\\packages\\microsoft.extensions.primitives\\2.2.0\\microsoft.extensions.primitives.2.2.0.nupkg.sha512",
+    "C:\\Users\\WajeehaMalik(TechUni\\.nuget\\packages\\microsoft.identitymodel.abstractions\\6.23.1\\microsoft.identitymodel.abstractions.6.23.1.nupkg.sha512",
+    "C:\\Users\\WajeehaMalik(TechUni\\.nuget\\packages\\microsoft.identitymodel.logging\\6.23.1\\microsoft.identitymodel.logging.6.23.1.nupkg.sha512",
+    "C:\\Users\\WajeehaMalik(TechUni\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.23.1\\microsoft.identitymodel.tokens.6.23.1.nupkg.sha512",
+    "C:\\Users\\WajeehaMalik(TechUni\\.nuget\\packages\\system.memory\\4.5.1\\system.memory.4.5.1.nupkg.sha512",
+    "C:\\Users\\WajeehaMalik(TechUni\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.1\\system.runtime.compilerservices.unsafe.4.5.1.nupkg.sha512",
+    "C:\\Users\\WajeehaMalik(TechUni\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512",
+    "C:\\Users\\WajeehaMalik(TechUni\\.nuget\\packages\\system.text.encodings.web\\4.5.0\\system.text.encodings.web.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
